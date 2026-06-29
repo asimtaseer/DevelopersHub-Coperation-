@@ -1,2 +1,2 @@
 # DevelopersHub-Coperation-
-This repository contains all the projects, tasks, and learning outcomes completed during my Artificial Intelligence internship at DevelopersHub Corporation.
+The Repo Belongs to the work which I do with the DevelopersHub Coperation 
